@@ -1,0 +1,9 @@
+<script src="/js/jquery.2.1.4.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/inspinia/toast-alert/toast-alert.js"></script>
+<script src="/js/inspinia/metisMenu/metisMenu.js"></script>
+<script src="/js/inspinia/pace/pace.js"></script>
+<script src="/js/inspinia/slimscroll/slimscroll.js"></script>
+<script src="/js/inspinia/inspinia.js"></script>
+<script src="/js/erreur/gestionErreur.js"></script>
+<script src="/js/variable.js"></script>
